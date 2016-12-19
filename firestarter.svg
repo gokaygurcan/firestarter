@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1400px" height="1400px" viewBox="0 0 1400 1400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>firestarter</title>
+    <desc>https://github.com/gokaygurcan/firestarter</desc>
+    <defs></defs>
+    <g id="Firestarter" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="firestarer">
+            <rect id="white_rectangle" fill="#FFFFFF" x="0" y="0" width="1400" height="1400"></rect>
+            <g id="down" transform="translate(0.000000, 900.000000)" fill="#DD022A">
+                <rect id="4_red_rectangle" x="1200" y="0" width="200" height="500"></rect>
+                <rect id="3_red_rectangle" x="800" y="0" width="200" height="500"></rect>
+                <rect id="2_red_rectangle" x="400" y="0" width="200" height="500"></rect>
+                <rect id="1_red_rectangle" x="0" y="0" width="200" height="500"></rect>
+            </g>
+            <g id="up">
+                <rect id="blue_rectangle" fill="#002075" x="0" y="0" width="1400" height="700"></rect>
+                <polygon id="2_bottom_star" fill="#FFFFFF" points="1200 607.294902 1122.74575 650 1137.5 559.54915 1075 495.491503 1161.37288 482.294902 1200 400 1238.62712 482.294902 1325 495.491503 1262.5 559.54915 1277.25425 650 "></polygon>
+                <polygon id="1_bottom_star" fill="#FFFFFF" points="200 607.294902 122.745751 650 137.5 559.54915 75 495.491503 161.372876 482.294902 200 400 238.627124 482.294902 325 495.491503 262.5 559.54915 277.254249 650 "></polygon>
+                <polygon id="1_middle_star" fill="#FFFFFF" points="700 482.294902 622.745751 525 637.5 434.54915 575 370.491503 661.372876 357.294902 700 275 738.627124 357.294902 825 370.491503 762.5 434.54915 777.254249 525 "></polygon>
+                <polygon id="2_top_star" fill="#FFFFFF" points="1000 257.294902 922.745751 300 937.5 209.54915 875 145.491503 961.372876 132.294902 1000 50 1038.62712 132.294902 1125 145.491503 1062.5 209.54915 1077.25425 300 "></polygon>
+                <polygon id="1_top_star" fill="#FFFFFF" points="400 257.294902 322.745751 300 337.5 209.54915 275 145.491503 361.372876 132.294902 400 50 438.627124 132.294902 525 145.491503 462.5 209.54915 477.254249 300 "></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
