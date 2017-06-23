@@ -1,0 +1,61 @@
+# gokaygurcan/firestarter
+
+[alias]
+  pull = fetch && git pull
+
+[apply]
+  ignorewhitespace = change
+  whitespace = nowarn
+
+[branch "develop"]
+  remote = origin
+  merge = refs/heads/develop
+
+[branch "master"]
+  remote = origin
+  merge = refs/heads/master
+
+[color]
+  ui = auto
+
+[commit]
+  gpgsign = true
+
+[core]
+  autocrlf = input
+  longpaths = true
+
+[fetch]
+  prune = true
+
+[gitflow "branch"]
+  master = master
+  develop = develop
+
+[gitflow "prefix"]
+  feature = feature/
+  release = release/
+  hotfix = hotfix/
+  support = support/
+  versiontag = v
+
+[log]
+  date = iso
+
+[http]
+  postBuffer = 1048576000
+
+[merge]
+  ff = only
+
+[push]
+  default = matching
+
+[rebase]
+  autosquash = true
+
+[rerere]
+  enabled = true
+
+[status]
+  showUntrackedFiles = no
