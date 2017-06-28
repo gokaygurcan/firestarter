@@ -8,6 +8,7 @@
     "email": "info@gokaygurcan.com",
     "url": "https://www.gokaygurcan.com/"
   },
+  "contributors": [],
   "copyright": "2017",
   "license": "MIT",
   "repository": "gokaygurcan/firestarter",
@@ -21,10 +22,14 @@
     "desktop",
     "cli"
   ],
+  "preferGlobal": true,
   "bin": {
     "firestarter": "./bin/firestarter.js"
   },
   "scripts": {},
-  "dependencies": {},
+  "dependencies": {
+    "inquirer": "^3.1.1",
+    "is_js": "^0.9.0"
+  },
   "devDependencies": {}
 }
