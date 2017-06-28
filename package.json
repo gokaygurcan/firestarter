@@ -1,0 +1,30 @@
+{
+  "name": "@gokaygurcan/firestarter",
+  "version": "0.1.0",
+  "description": "Project boilerplate",
+  "homepage": "https://github.com/gokaygurcan/firestarter",
+  "author": {
+    "name": "Gökay Gürcan",
+    "email": "info@gokaygurcan.com",
+    "url": "https://www.gokaygurcan.com/"
+  },
+  "copyright": "2017",
+  "license": "MIT",
+  "repository": "gokaygurcan/firestarter",
+  "bugs": {
+    "url": "https://github.com/gokaygurcan/firestarter/issues"
+  },
+  "keywords": [
+    "project",
+    "boilerplate",
+    "web",
+    "desktop",
+    "cli"
+  ],
+  "bin": {
+    "firestarter": "./bin/firestarter.js"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
